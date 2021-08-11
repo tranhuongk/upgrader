@@ -4,8 +4,8 @@
     <title>For unit test only</title>
     <!-- A joke release testing maximumSystemVersion -->
     <item>
-        <title>Version 5.0</title>
-        <sparkle:version>5.0</sparkle:version>
+        <title>Version 1.0.7</title>
+        <sparkle:version>1.0.7</sparkle:version>
     </item>
   </channel>
 </rss>
