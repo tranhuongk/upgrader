@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>For unit test only</title>
+    <!-- A joke release testing maximumSystemVersion -->
+    <item>
+        <title>Version 1.0.7</title>
+        <sparkle:version>1.0.7</sparkle:version>
+        <sparkle:maximumSystemVersion>2.0.0</sparkle:maximumSystemVersion>
+    </item>
+  </channel>
+</rss>
